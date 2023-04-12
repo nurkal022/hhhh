@@ -1,1 +1,1 @@
-This progeck my first shop web site on djangeo
+This progeck my first shop web site on django
